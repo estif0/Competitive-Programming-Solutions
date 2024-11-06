@@ -6,6 +6,7 @@ Thumbs.db
 .idea/
 .vscode/
 *.sublime-workspace
+*.code-workspace
 
 # Python (if used for solutions or scripts)
 __pycache__/
@@ -26,3 +27,6 @@ build/
 *.bak
 *.swp
 *~
+
+# Misc
+Templates/
